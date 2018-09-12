@@ -10,6 +10,6 @@ int main()
 	t.detach(); //t线程放在后台执行
 	while (1) 
 	{
-		mainwin();
+		mainwin();//主界面
 	}
 }
